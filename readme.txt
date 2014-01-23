@@ -1,4 +1,3 @@
-Windows:
 
 	Download and install Python: 
 
@@ -11,8 +10,12 @@ Windows:
 		Install setuptools: 	http://www.lfd.uci.edu/~gohlke/pythonlibs/#setuptools
     		Install pip: 		http://www.lfd.uci.edu/~gohlke/pythonlibs/#pip
 					Then run cmd: pip install httpie
-
-
+					
+	Install Flask:
+		http://flask.pocoo.org/docs/installation/#installation
+	
+	Install Nginx:
+		http://nginx.org/en/docs/install.html
+	
 	Run the site:
-
-		At cmd type:  c:\python23\python get_links.py     (Maybe the path is different from yours)	
+		At terminal type:  opt\www\mysite\web\python get_links.py     (Maybe the path is different from yours)	
